@@ -1,5 +1,9 @@
 # devops-aula02
 
 Robert downey
-Scarlett johansson
+
+Will Smith
+
 Jennifer lawrence
+
+Jack Chan
